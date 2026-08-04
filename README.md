@@ -1,10 +1,15 @@
-> [!WARNING]
-> This repository is currently not maintained. If you're interested in becoming a maintainer please [let us know here](https://github.com/mattermost-community/focalboard/issues/5038).
->
-> This repository only contains standalone Focalboard. If you're looking for the Mattermost plugin please see [mattermost/mattermost-plugin-boards](https://github.com/mattermost/mattermost-plugin-boards).
->
+# TaskBoard Pro
+### by Velocity11
 
-# Focalboard
+*A packaged, ready-to-deploy distribution of [Focalboard](https://github.com/mattermost-community/focalboard),
+an open-source project by Mattermost, Inc., licensed under MIT.*
+
+*Note: the upstream Focalboard project is no longer under active maintenance
+by Mattermost. This distribution is stable and fully functional as-is; if you
+need ongoing upstream security patches, check the project status before
+relying on it for sensitive data.*
+
+Original project: https://github.com/mattermost-community/focalboard
 
 ![CI Status](https://github.com/mattermost/focalboard/actions/workflows/ci.yml/badge.svg)
 ![CodeQL](https://github.com/mattermost/focalboard/actions/workflows/codeql-analysis.yml/badge.svg)
