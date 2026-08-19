@@ -1,0 +1,9 @@
+Product: TaskBoard Pro
+Package version: 1.0.0
+Package date: 2026-08-19
+Velocity11 repository: https://github.com/harindermansh-stack/taskboardpro
+Packaged commit: dcaeee7874e9a6e9fa5855acdc03f098ebb2ea0a
+Upstream project: mattermost-community/focalboard
+Referenced upstream commit: a84bbb65e32edf972856b329417096ac413518e9
+Velocity11 changes identified: README branding, NOTICE attribution update, package metadata branding.
+Licence: Mattermost Focalboard licensing terms in LICENSE.txt, including MIT terms for compiled versions produced by Mattermost, AGPLv3/commercial-source conditions for source use, Apache 2.0 terms for specified Admin Tools and Config directories, and trademark restrictions.
